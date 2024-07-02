@@ -1,1 +1,15 @@
-Hi There, This repository is for the coursework solutions from ME539 ML 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+
+#  ME539-Scientific-Machine-Learning
+
+Welcome to my repository for ME539 Scientific Machine Learning Coursework. This repository contains Python implementations coursework assignments.
+
+## Disclaimer
+
+This repository is intended for knowledge sharing only. 
+
+Happy learning!
+
+
+
