@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 #  ME539-Scientific-Machine-Learning
 
-Welcome to my repository for ME539 Scientific Machine Learning Coursework. This repository contains Python implementations coursework assignments.
+Welcome to my repository for ME539 Scientific Machine Learning Coursework taught in summer 2024. This repository contains Python implementations coursework assignments.
 
 ## Disclaimer
 
